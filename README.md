@@ -30,7 +30,7 @@
 
 4. Update all of the plots any time that a new sample is selected.
 
-5. Refer Dashboard Image.png for an overview.
+5. Refer dashboard image folder for an overview.
 
 
 ## About the Data
